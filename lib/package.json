@@ -11,6 +11,7 @@
   "author": "Zack Shainsky",
   "license": "MIT",
   "dependencies": {
+    "@lit-labs/motion": "^1.0.1",
     "lit": "^2.0.2"
   },
   "devDependencies": {
